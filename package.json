@@ -1,0 +1,9 @@
+{
+  "name": "eslint-config-gsap",
+  "version": "1.0.0",
+  "description": "GSAP globals for ESLint",
+  "main": "index.js",
+  "repository": "git@github.com:CommercialTribe/eslint-config-gsap.git",
+  "author": "Jason Waldrip <jwaldrip@commercialtribe.com>",
+  "license": "MIT"
+}
